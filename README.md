@@ -1,4 +1,4 @@
-h1 align="center">E-commerce
+<h1 align="center">E-commerce
 </h1>
 
 ## 💻 Sobre o projeto
