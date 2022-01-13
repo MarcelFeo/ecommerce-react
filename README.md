@@ -29,11 +29,6 @@ $ https://github.com/MarcelFeo/ecommerce-react.git
 ```
 
 ```bash
-# Acesse a pasta do projeto
-$ cd 03-ignews
-```
-
-```bash
 # Crie um arquivo .env.local e configure as váriaveis de ambiente
 
 # Stripe
